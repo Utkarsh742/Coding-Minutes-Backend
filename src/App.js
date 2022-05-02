@@ -1,10 +1,10 @@
 import React from "react";
-import ReactContact from "./component/ReactContact";
+import CampusCaptainForm from "./component/CampusCaptainForm";
 
 const App = () => {
   return (
     <>
-      <ReactContact />
+      <CampusCaptainForm />
     </>
   )
 }
